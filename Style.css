@@ -1,0 +1,78 @@
+body{
+    background-color:Pink;
+    color: deeppink;
+    text-align: center;
+
+    padding: 40px;
+margin: 30px;
+
+
+
+
+
+    p{
+        color: black;
+
+
+
+
+
+    }
+
+    .One{
+        color: blueviolet;
+        font-size: 23px;
+        font-style: italic;
+        font-family: "Arial Black";
+        font-weight: lighter;
+    }
+
+    .Two{
+        padding: 10px;
+       border: black 4px solid;
+        border-radius: 10px 5px 10px 5px;
+
+
+    }
+    .Image{
+
+       border-radius: 10px;
+        width: 50px;
+
+    }
+a{
+  text-decoration: none;
+color: fuchsia;
+
+}
+a:hover{
+    color: red;
+    font-size: 20px;
+    border-bottom: black 3px solid
+}
+#one{
+    background-color: #FE0185
+ ;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

@@ -1,0 +1,18 @@
+Body{
+    background-color:pink;
+    color: deeppink;
+    text-align: center;
+
+p{
+    .SIX{
+        color: black;
+        font-size: 10px;
+        font-style: italic;
+        border: deeppink 4px solid;
+        padding: 10px;
+        border-radius: 20px 5px 20px 5px;
+        font-family: "Arial Black";
+    }
+}
+
+}
